@@ -10,9 +10,6 @@
             "email": "piotr@plenik.com"
         }
     ],
-    "require": {
-        "php": ">=5.3.3"
-    },
     "minimum-stability": "dev",
     "bin": ["closure/bin/build/closurebuilder.py", "closure/bin/build/depstree.py", "closure/bin/build/depswriter.py", "closure/bin/build/source.py", "closure/bin/build/jscompiler.py", "closure/bin/build/treescan.py"],
     "extra": {
