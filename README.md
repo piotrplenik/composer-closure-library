@@ -5,11 +5,8 @@ Google Closure Library with PHP composer support
 Fetch from: https://github.com/google/closure-library.git
 
 ## Installation
-To install the package, put the following in your composer.json:
+To install the package, run:
 
-```json
-"require": {
-	"jupeter/composer-closure-library": "dev-master"
-}
+```sh
+composer require jupeter/composer-closure-library
 ```
-
